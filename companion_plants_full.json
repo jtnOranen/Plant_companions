@@ -1,0 +1,440 @@
+{
+  "Fenkoli": {
+    "good": [
+      "Endiivi",
+      "Herne",
+      "Kurkku",
+      "Palsternakka",
+      "Purjo",
+      "Selleri",
+      "Vienankaali",
+      "Basilika",
+      "Salvia",
+      "Auringonkukka"
+    ],
+    "bad": [
+      "Paprika",
+      "Papu",
+      "Tomaatti",
+      "Korianteri",
+      "Tilli"
+    ]
+  },
+  "Herne": {
+    "good": [
+      "Fenkoli",
+      "Kaali",
+      "Kesäkurpitsa",
+      "Kurkku",
+      "Maissi",
+      "Palsternakka",
+      "Porkkana",
+      "Retiisi",
+      "Retikka",
+      "Salaatti",
+      "Selleri",
+      "Tilli"
+    ],
+    "bad": [
+      "Munakoiso",
+      "Papu",
+      "Peruna",
+      "Purjo",
+      "Sipuli",
+      "Tomaatti",
+      "Valkosipuli"
+    ]
+  },
+  "Kaali": {
+    "good": [
+      "Endiivi",
+      "Herne",
+      "Kurkku",
+      "Maissi",
+      "Mangoldi",
+      "Munakoiso",
+      "Paprika",
+      "Papu",
+      "Pinaatti",
+      "Porkkana",
+      "Punajuurikas",
+      "Raparperi",
+      "Salaatti",
+      "Selleri",
+      "Tomaatti",
+      "Tilli"
+    ],
+    "bad": [
+      "Kaali",
+      "Peruna",
+      "Sipuli",
+      "Valkosipuli"
+    ]
+  },
+  "Kesäkurpitsa": {
+    "good": [
+      "Herne",
+      "Maissi",
+      "Mangoldi",
+      "Papu",
+      "Punajuurikas",
+      "Sipuli"
+    ],
+    "bad": [
+      "Kurkku",
+      "Kurpitsa",
+      "Peruna",
+      "Retikka",
+      "Tomaatti"
+    ]
+  },
+  "Kurkku": {
+    "good": [
+      "Kaali",
+      "Maissi",
+      "Paprika",
+      "Papu",
+      "Pinaatti",
+      "Punajuurikas",
+      "Salaatti",
+      "Selleri",
+      "Sipuli",
+      "Valkosipuli",
+      "Basilika",
+      "Tilli"
+    ],
+    "bad": [
+      "Kesäkurpitsa",
+      "Kurpitsa",
+      "Retiisi",
+      "Retikka",
+      "Tomaatti"
+    ]
+  },
+  "Kurpitsa": {
+    "good": [
+      "Maissi",
+      "Papu",
+      "Sipuli",
+      "Auringonkukka"
+    ],
+    "bad": [
+      "Kesäkurpitsa",
+      "Kurkku",
+      "Peruna"
+    ]
+  },
+  "Maissi": {
+    "good": [
+      "Herne",
+      "Kaali",
+      "Kesäkurpitsa",
+      "Kurkku",
+      "Kurpitsa",
+      "Meloni",
+      "Palsternakka",
+      "Papu",
+      "Peruna",
+      "Porkkana",
+      "Salaatti",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Punajuurikas",
+      "Selleri"
+    ]
+  },
+  "Mangoldi": {
+    "good": [
+      "Kaali",
+      "Palsternakka",
+      "Papu",
+      "Porkkana",
+      "Retiisi"
+    ],
+    "bad": [
+      "Pinaatti",
+      "Punajuurikas"
+    ]
+  },
+  "Munakoiso": {
+    "good": [
+      "Kaali",
+      "Pinaatti",
+      "Retiisi",
+      "Retikka",
+      "Salaatti"
+    ],
+    "bad": [
+      "Herne",
+      "Paprika",
+      "Peruna",
+      "Punajuurikas"
+    ]
+  },
+  "Palsternakka": {
+    "good": [
+      "Herne",
+      "Maissi",
+      "Mangoldi",
+      "Pinaatti",
+      "Porkkana",
+      "Purjo",
+      "Retiisi",
+      "Retikka",
+      "Salaatti",
+      "Sipuli",
+      "Valkosipuli",
+      "Auringonkukka",
+      "Kehäkukka"
+    ],
+    "bad": [
+      "Fenkoli",
+      "Persilja"
+    ]
+  },
+  "Paprika": {
+    "good": [
+      "Kaali",
+      "Kurkku",
+      "Porkkana",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Fenkoli",
+      "Munakoiso",
+      "Peruna"
+    ]
+  },
+  "Papu": {
+    "good": [
+      "Kaali",
+      "Kesäkurpitsa",
+      "Kurkku",
+      "Kurpitsa",
+      "Maissi",
+      "Mangoldi",
+      "Peruna",
+      "Pinaatti",
+      "Punajuurikas",
+      "Retiisi",
+      "Retikka",
+      "Salaatti",
+      "Selleri",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Fenkoli",
+      "Herne",
+      "Papu",
+      "Purjo",
+      "Sipuli",
+      "Valkosipuli"
+    ]
+  },
+  "Peruna": {
+    "good": [
+      "Maissi",
+      "Papu"
+    ],
+    "bad": [
+      "Herne",
+      "Kaali",
+      "Munakoiso",
+      "Paprika",
+      "Punajuurikas",
+      "Salaatti",
+      "Selleri",
+      "Sipuli",
+      "Tomaatti"
+    ]
+  },
+  "Pinaatti": {
+    "good": [
+      "Kaali",
+      "Kurkku",
+      "Munakoiso",
+      "Palsternakka",
+      "Papu",
+      "Retiisi",
+      "Retikka",
+      "Selleri",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Mangoldi",
+      "Punajuurikas"
+    ]
+  },
+  "Porkkana": {
+    "good": [
+      "Herne",
+      "Kaali",
+      "Maissi",
+      "Mangoldi",
+      "Palsternakka",
+      "Paprika",
+      "Purjo",
+      "Retiisi",
+      "Retikka",
+      "Sipuli",
+      "Valkosipuli"
+    ],
+    "bad": [
+      "Selleri"
+    ]
+  },
+  "Punajuurikas": {
+    "good": [
+      "Kaali",
+      "Kesäkurpitsa",
+      "Kurkku",
+      "Papu",
+      "Salaatti",
+      "Sipuli",
+      "Valkosipuli"
+    ],
+    "bad": [
+      "Maissi",
+      "Mangoldi",
+      "Munakoiso",
+      "Peruna",
+      "Pinaatti",
+      "Purjo"
+    ]
+  },
+  "Purjo": {
+    "good": [
+      "Palsternakka",
+      "Porkkana",
+      "Salaatti",
+      "Selleri",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Herne",
+      "Papu",
+      "Punajuurikas",
+      "Sipuli",
+      "Valkosipuli"
+    ]
+  },
+  "Retiisi": {
+    "good": [
+      "Herne",
+      "Mangoldi",
+      "Munakoiso",
+      "Palsternakka",
+      "Papu",
+      "Pinaatti",
+      "Porkkana",
+      "Salaatti"
+    ],
+    "bad": [
+      "Kurkku"
+    ]
+  },
+  "Retikka": {
+    "good": [
+      "Herne",
+      "Mangoldi",
+      "Munakoiso",
+      "Papu",
+      "Porkkana",
+      "Salaatti",
+      "Selleri"
+    ],
+    "bad": [
+      "Kurkku"
+    ]
+  },
+  "Salaatti": {
+    "good": [
+      "Herne",
+      "Kurkku",
+      "Munakoiso",
+      "Palsternakka",
+      "Papu",
+      "Punajuurikas",
+      "Purjo",
+      "Retiisi",
+      "Retikka",
+      "Valkosipuli"
+    ],
+    "bad": [
+      "Peruna",
+      "Selleri"
+    ]
+  },
+  "Selleri": {
+    "good": [
+      "Herne",
+      "Kaali",
+      "Kurkku",
+      "Papu",
+      "Pinaatti",
+      "Purjo",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Maissi",
+      "Peruna",
+      "Porkkana",
+      "Salaatti"
+    ]
+  },
+  "Sipuli": {
+    "good": [
+      "Kesäkurpitsa",
+      "Kurkku",
+      "Palsternakka",
+      "Porkkana",
+      "Punajuurikas",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Herne",
+      "Kaali",
+      "Papu",
+      "Peruna",
+      "Purjo",
+      "Valkosipuli"
+    ]
+  },
+  "Tomaatti": {
+    "good": [
+      "Kaali",
+      "Paprika",
+      "Papu",
+      "Pinaatti",
+      "Purjo",
+      "Selleri",
+      "Sipuli",
+      "Valkosipuli",
+      "Basilika"
+    ],
+    "bad": [
+      "Fenkoli",
+      "Herne",
+      "Kurkku",
+      "Peruna"
+    ]
+  },
+  "Valkosipuli": {
+    "good": [
+      "Kurkku",
+      "Palsternakka",
+      "Porkkana",
+      "Punajuurikas",
+      "Salaatti",
+      "Tomaatti"
+    ],
+    "bad": [
+      "Herne",
+      "Kaali",
+      "Papu",
+      "Purjo",
+      "Sipuli"
+    ]
+  }
+}
