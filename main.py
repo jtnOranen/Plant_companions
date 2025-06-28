@@ -32,6 +32,8 @@ while len(plant_pool) < max_plants:
 print("\nYour normalized plant pool:")
 print(plant_pool)
 
+
+
 # === Helper to convert 1D list into 3x3 grid ===
 def to_grid(layout):
     return [layout[i*3:(i+1)*3] for i in range(3)]
